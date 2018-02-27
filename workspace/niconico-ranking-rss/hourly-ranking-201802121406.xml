@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+      <title>カテゴリ合算の総合ランキング(毎時)‐ニコニコ動画</title>
+      <link>http://www.nicovideo.jp/ranking/fav/hourly/all</link>
+      <description>毎時更新</description>
+      <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+      <lastBuildDate>Mon, 12 Feb 2018 22:08:44 +0900</lastBuildDate>
+      <generator>ニコニコ動画</generator>
+      <language>ja-jp</language>
+      <copyright>(c) DWANGO Co., Ltd.</copyright>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+  <atom:link rel="self" type="application/rss+xml" href="http://www.nicovideo.jp/ranking/fav/hourly/all?rss=2.0"/>
+
+    
+                <item>
+        <title>第1位：八卦炉電子オルゴールで「決戦！サルーイン -Final Battle with Saruin-」</title>
+        <link>http://www.nicovideo.jp/watch/sm32369941</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2017-12-04:/watch/sm32369941</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="八卦炉電子オルゴールで「決戦！サルーイン -Final Battle with Saruin-」" src="http://tn.smilevideo.jp/smile?i=32369941" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">地味ですが折角作ったので色々な曲を演奏させてみたい！今回はArduinoを8個(Uno1個＆ProMini互換品7個)を使用し、八卦炉電子オルゴールを作ってみました～ネーミングに関しては、八卦炉は8柱のケロちゃん、つまり8ケロだからですｗ動かし方は、MIDIデータを予めスワワロイドでCSV変換したものをSDカードに入れ、それをArduinoで読み込み演奏させています。なお、Arduino同士はI2Cバスで接続してます。基本的には圧電サウンダ(電子ブザー)はMIDIチャンネル毎に割り当ててます。和音等で演奏時に音が重なる場合は、空いている圧電サウンダに割り当てます。演奏で使用したMIDIは大兎オバマ様作成。演奏難易度：★★★★こちらもヨロシク！◆SWK教YouTubeチャンネル　https://www.youtube.com/SUWAWA</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">79,491</strong>pts.｜<strong class="nico-info-length">7:07</strong>｜<strong class="nico-info-date">2017年12月04日 22：55：34</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">283,444</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">254</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">5,787</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">79,491</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">0</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第2位：【第20回MMD杯本選】琴葉姉妹　できたよ！【モデル配布】</title>
+        <link>http://www.nicovideo.jp/watch/sm32725894</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32725894</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】琴葉姉妹　できたよ！【モデル配布】" src="http://tn.smilevideo.jp/smile?i=32725894" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">知り合いのMMDerさんのリクエストで作った、たしかなまんぞくさんの琴葉姉妹（im5848633・im5863705）をモチーフにしたモデルです。せっかくの１０周年ですので、初心に帰ってPV風にしてみましたが、むずかしいですねえ…。テーマは、ハルオロイド・ミナミもよろしくお願いしますということで（MMDモデリング担当しております）ミナミで。お借りしたものはコンテンツツリーなどで。よろしくお願いします。配布はこちら：td32193mylist/36237755【theme:ミナミ】【name:金子卵黄】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">33,637</strong>pts.｜<strong class="nico-info-length">3:39</strong>｜<strong class="nico-info-date">2018年02月12日 12：32：06</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,198</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">108</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">517</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,091</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">12</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">63</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第3位：Siriに耳コピしてもらった『シュガーソングとビターステップ』を歌った</title>
+        <link>http://www.nicovideo.jp/watch/sm26715926</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2015-07-16:/watch/sm26715926</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="Siriに耳コピしてもらった『シュガーソングとビターステップ』を歌った" src="http://tn.smilevideo.jp/smile?i=26715926" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">そうだ、ケニアに行こう。普通に歌う→Siriに聞かせる→Siriが聞こえた通りにもう一度歌う。石敢當と申します。漢字の読みとかは歌ってる時のノリです。Ｑ.Siriじゃなくてお前の滑舌が悪いんじゃないの？Ａ.返す言葉もございません音源はsm26278070（じじじ様）からお借り致しました。+2です。Siriシリーズまとめ→mylist/54162237プロフィール⇒user/354381コミュニティ⇒co38813◆Twitter⇒@ganto_os他の投稿動画→mylist/7359963</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">21,922</strong>pts.｜<strong class="nico-info-length">4:16</strong>｜<strong class="nico-info-date">2015年07月16日 10：05：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">921,792</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">10,901</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">12,278</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">22</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">1</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第4位：あんハピ♪　1話「４月７日　不幸な入学初日」</title>
+        <link>http://www.nicovideo.jp/watch/so28594298</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2016-04-10:/watch/so28594298</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="あんハピ♪　1話「４月７日　不幸な入学初日」" src="http://tn.smilevideo.jp/smile?i=28594298" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">天之御船学園の入学式当日、1年7組の教室で花小泉杏（はなこ）、雲雀丘瑠璃（ヒバリ）、久米川牡丹（ぼたん）の3人は、担任の小平先生から自分たちが〝負の業〟すなわち不幸を背負った生徒であることを告げられる。様々な不幸タイプを背負った1年7組の目標は「幸せ」になること。事態が飲み込めない3人だったが、早速予想外の宿題が出されてしまい…！？脚本：田中仁　絵コンテ：大沼心動画一覧はこちら原作コミックが今すぐ読める！２話 watch/1460599621</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">20,648</strong>pts.｜<strong class="nico-info-length">23:43</strong>｜<strong class="nico-info-date">2016年04月10日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">428,920</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">40,927</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,031</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">23</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">1</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">1</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第5位：ポプテピピック　#6「第30期電脳戦」</title>
+        <link>http://www.nicovideo.jp/watch/so32701108</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/so32701108</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ポプテピピック　#6「第30期電脳戦」" src="http://tn.smilevideo.jp/smile?i=32701108" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">原作コミックが今すぐ読める!! 動画一覧はこちら#5 watch/1517454081</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">17,909</strong>pts.｜<strong class="nico-info-length">23:42</strong>｜<strong class="nico-info-date">2018年02月11日 01：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">903,457</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">63,601</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4,664</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">15,177</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">742</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">37</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第6位：『聖槍爆裂ボーイ』を 歌ってみた by 石敢當</title>
+        <link>http://www.nicovideo.jp/watch/sm21725437</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2013-09-01:/watch/sm21725437</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="『聖槍爆裂ボーイ』を 歌ってみた by 石敢當" src="http://tn.smilevideo.jp/smile?i=21725437" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">石敢當（いしがんとう）です。俺のグングニルがなんとかかんとか◆原曲様⇒sm21702752脳漿炸裂ガール⇒sm19381045一触即発☆禅ガール⇒sm21380395◆MIX:djseiru(mylist/16360743)プロフィール⇒user/354381コミュニティ⇒co38813◆ブロマガ⇒ar95316Twitter⇒@ganto_os◆mylist/7359963アルバム作りました⇒sm21551774</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">15,933</strong>pts.｜<strong class="nico-info-length">3:29</strong>｜<strong class="nico-info-date">2013年09月01日 01：06：44</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">317,871</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,982</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">6,149</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">3</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">0</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第7位：【第20回MMD杯本選】かーにばるフレンズ</title>
+        <link>http://www.nicovideo.jp/watch/sm32711287</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-09:/watch/sm32711287</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】かーにばるフレンズ" src="http://tn.smilevideo.jp/smile?i=32711287" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">＼(＾ω＾＼Ξ／＾ω＾)／ウォウウォ！ウォウウォ！ウォウウォ！＼(＾ω＾＼Ξ／＾ω＾)／イェイ！イェイ！----ツイッターではたくさんのいいね・RTありがとうございました！けものフレンズ11話～12話前後を想定して作成しており、若干ネタバレを含みますが、まだ本編未試聴であれば、この動画がきっかけになればと思います！【theme:繁栄】【name:kiriko】【予選:sm32548003】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ コメント貰えると励みになります。#動画番号でエゴサしますので、感想ツイートもお願いします！前作のこっちも見てね！→sm30603429マイリスト：mylist/21543209フォッサごめん！！→im7869024</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">13,972</strong>pts.｜<strong class="nico-info-length">3:29</strong>｜<strong class="nico-info-date">2018年02月09日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">424,222</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">7,146</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">39,324</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">6,222</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">71</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">328</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第8位：【YouTuber秘話】シロの大反省会</title>
+        <link>http://www.nicovideo.jp/watch/sm32723091</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32723091</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【YouTuber秘話】シロの大反省会" src="http://tn.smilevideo.jp/smile?i=32723091" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">皆さんっ！反省してっ！ｳﾜｧｧｧｧｧｧヽ(`Д´)ﾉｧｧｧｧｧｧﾝ!単発動画一覧→mylist/60628399その他UP動画一覧→mylist/60628711■チャンネルhttps://www.youtube.com/channel/UCLhUvJ_wO9hOvv_yYENu4fQ■Twitterhttps://twitter.com/SIROyoutuber</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">9,188</strong>pts.｜<strong class="nico-info-length">6:47</strong>｜<strong class="nico-info-date">2018年02月12日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">22,152</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,833</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">231</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">6,385</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">346</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">43</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第9位：【刀剣乱舞】KP鶴と古備前がガンバルはなひらり⑩【TRPG】</title>
+        <link>http://www.nicovideo.jp/watch/sm32727901</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32727901</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【刀剣乱舞】KP鶴と古備前がガンバルはなひらり⑩【TRPG】" src="http://tn.smilevideo.jp/smile?i=32727901" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">■■「■■■■■■■■■■■■■■■」前回＜sm32519346＞　マイリスト＜mylist/60133463＞　</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">9,143</strong>pts.｜<strong class="nico-info-length">23:44</strong>｜<strong class="nico-info-date">2018年02月12日 19：26：27</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,480</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">987</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">283</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,493</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">204</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">86</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第10位：迫真・アイドル部性の裏技</title>
+        <link>http://www.nicovideo.jp/watch/sm32717546</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-10:/watch/sm32717546</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="迫真・アイドル部性の裏技" src="http://tn.smilevideo.jp/smile?i=32717546" width="94" height="70" border="0"/></p>
+                                <p class="nico-description"></p>
+                                <p class="nico-info"><small><strong class="nico-info-number">8,446</strong>pts.｜<strong class="nico-info-length">1:53</strong>｜<strong class="nico-info-date">2018年02月10日 23：23：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">191,014</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,968</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,279</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">6,754</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">58</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">59</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第11位：【死期欲-シキヨク】シザーガールとホスト☆俺part1</title>
+        <link>http://www.nicovideo.jp/watch/sm32716025</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32716025</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【死期欲-シキヨク】シザーガールとホスト☆俺part1" src="http://tn.smilevideo.jp/smile?i=32716025" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">シキヨクシリーズ第3話、実況プレイしますシャオロン　@shao_banbitanトントン　@ton_ton1945前作part1→sm32110294　　公式HP → https://gamemaga.denfaminicogamer.jp/shikiyoku/</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">8,381</strong>pts.｜<strong class="nico-info-length">13:26</strong>｜<strong class="nico-info-date">2018年02月12日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,301</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">541</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">120</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">3,230</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">412</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">117</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第12位：【第20回MMD杯本選】オリキャラタウンへおいでよ！</title>
+        <link>http://www.nicovideo.jp/watch/sm32728567</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728567</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】オリキャラタウンへおいでよ！" src="http://tn.smilevideo.jp/smile?i=32728567" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">よろしくおねがいしまぁぁぁぁぁす！たぶん南にあると思う打上島を舞台にオリキャラさん達で若干ゃ空回り気味に遊びました。使用した製作物は動画及びコンテンツツリーにて紹介しています。いつもありがとうございます。たのしませてもらってます。投稿動画リスト→mylist/59362390進捗状況とかつぶやくツイッター→　@TwinkleKnight他動画への転載はご遠慮ください。No reproduction or republication without written permission.【theme:ミナミ】【予選:sm32586736】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ この動画はアイマリンプロジェクトのデータを使用しています。http://www.imarine-project.jp/</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">7,856</strong>pts.｜<strong class="nico-info-length">4:09</strong>｜<strong class="nico-info-date">2018年02月12日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">285</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">17</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">281</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">16</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">36</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第13位：【日刊Minecraft】最強の匠は誰か!?FPS編 スカイバトル第2章【4人実況】</title>
+        <link>http://www.nicovideo.jp/watch/sm32725618</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32725618</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【日刊Minecraft】最強の匠は誰か!?FPS編 スカイバトル第2章【4人実況】" src="http://tn.smilevideo.jp/smile?i=32725618" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">全世界のみんな、FPS編てか日刊マインクラフト！！今回もオリジナリティあふれるサバゲーフィールドを考案していきます！★FB777→黒服。今回の目標は、コマンドー。★あろま→マスターチーフ。コマンドプロンプト。★EOHEOH→素スティーブ。コマンドガンダム。★KIKKUN-MK-Ⅱ→ヨッシー。コマンダー0。2018年3月21日横浜アリーナライブ開催決定！MSSPライブツアー公式HPhttp://mssp-live.com/MSSPベストアルバム【M.S.S. Phoenix】予約受付中https://lineblog.me/mssp/archives/8366840.htmlTwitter IDKIKKUNmk2/FB77777aromahotExtreme/eoheoh_out高画質＆詳細文はこちら→https://youtu.be/IkICcTMhjt4前回→sm32716520　次回→マイクラマイリス→mylist/34003718各種マイリス→user/13983983</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">7,221</strong>pts.｜<strong class="nico-info-length">17:42</strong>｜<strong class="nico-info-date">2018年02月12日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">23,830</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">950</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">422</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">4,333</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">132</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">82</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第14位：オルガピピック5</title>
+        <link>http://www.nicovideo.jp/watch/sm32724013</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32724013</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="オルガピピック5" src="http://tn.smilevideo.jp/smile?i=32724013" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">おふとんくんに襲われましたsm32683904 ←4 | mylist/60905698 |</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">7,129</strong>pts.｜<strong class="nico-info-length">4:09</strong>｜<strong class="nico-info-date">2018年02月12日 01：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">66,829</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,727</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">831</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">4,992</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">84</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">45</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第15位：【自主制作アニメ】ケムリクサ　全話フル+最終話【毎月１日】</title>
+        <link>http://www.nicovideo.jp/watch/sm17125398</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2012-03-01:/watch/sm17125398</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【自主制作アニメ】ケムリクサ　全話フル+最終話【毎月１日】" src="http://tn.smilevideo.jp/smile?i=17125398" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">完結！ひとまずギリギリアップ！ケムリクサ・フルになります！期間も尺も色々長かったー。お付き合いいただいた皆さんありがとうございました！ＥＤ曲は箸休/hashiyasume様の、新世界へのプロローグ【sm13411290】です。世界観がピタリと今回ギリギリすぎて恒例のゆっくりが仕込めておりませんが、ＤＶＤ出ました。まあ例によって本編はここで見られますが冊子付きもあるのでよろしければ。超会議やコミティアなんかでもあ、今年こそアニメフェア出ます。去年は地震と…分裂騒動で…ほんともう…リスト：mylist/8447028　サイト：www.iro-dori.jp　ついった：irodori7眼鏡【sm7986823】　たれまゆ【sm10452352】　さやか【sm17431061】　オマケ【sm17170746】2013年、新作？？＞【sm20217655】</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">5,516</strong>pts.｜<strong class="nico-info-length">28:17</strong>｜<strong class="nico-info-date">2012年03月01日 23：58：30</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">145,032</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,801</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,438</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">560</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">7</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">20</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第16位：【第20回MMD杯本選】白玉楼階段の幻闘</title>
+        <link>http://www.nicovideo.jp/watch/sm32725727</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32725727</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】白玉楼階段の幻闘" src="http://tn.smilevideo.jp/smile?i=32725727" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">一年越しの投稿18回杯出る出る詐欺から長らくお待たせしました。今回は自機組ではないので曲調もがらりと変わりあだるてぃーに。妖夢って12回杯から出てますが、かなり多彩ですね。mylist/38767207　←製作途中だった頃のパートごとの動画置いてますつい：@aiueo_DriveP東京アクティブNEETs様　http://neets.tokyo/【theme:大人】【name:ドライブP】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ </p>
+                                <p class="nico-info"><small><strong class="nico-info-number">5,512</strong>pts.｜<strong class="nico-info-length">5:34</strong>｜<strong class="nico-info-date">2018年02月12日 11：53：08</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,617</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">149</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">473</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">957</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">26</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">68</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第17位：俺が配信中にぶっ倒れるまで part1</title>
+        <link>http://www.nicovideo.jp/watch/sm32719719</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32719719</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="俺が配信中にぶっ倒れるまで part1" src="http://tn.smilevideo.jp/smile?i=32719719" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">この辺はまだ覚えてる次 → 　　　マイリス→mylist/61021717生放送コミュ（金曜21:00～）　→　co3756825更新情報(Twitter)　→　https://twitter.com/takeponCH</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">5,502</strong>pts.｜<strong class="nico-info-length">30:21</strong>｜<strong class="nico-info-date">2018年02月11日 10：36：07</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">29,934</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">90</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">39</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">5,336</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">32</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">9</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第18位：ディープラーニングの力で結月ゆかりの声になってみた</title>
+        <link>http://www.nicovideo.jp/watch/sm32724409</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32724409</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ディープラーニングの力で結月ゆかりの声になってみた" src="http://tn.smilevideo.jp/smile?i=32724409" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">結月ゆかりになるのが将来の夢です。自分の声を直接結月ゆかりの声に変換できるようにしました。追記※声質変換の結果は分かりやすくするために編集で重ねています。実際には数秒のラグが発生します。生放送で許容できるぐらいのを目指しています。テキストを介さないので、感情やイントネーションを直接声質変換できます。バーチャルYoutuberになりたいなぁ。解説ブログ（予定地）https://hiroshiba.github.io/blog/ソースコード（Python+Chainer）https://github.com/Hiroshiba/become-yukarin毎朝プログラミングするコミュco3686550ツイッターhttps://twitter.com/hiho_karutaスペシャルサンクス@Kyowsuke@AkishoMK2チュルリラ・チュルリラ・ダッダッダ！ sm28276238</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">5,076</strong>pts.｜<strong class="nico-info-length">2:43</strong>｜<strong class="nico-info-date">2018年02月12日 02：14：22</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">13,071</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">329</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">537</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,214</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">23</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">44</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第19位：鈴木、部活やめるってよ.mp4</title>
+        <link>http://www.nicovideo.jp/watch/sm32719432</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32719432</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="鈴木、部活やめるってよ.mp4" src="http://tn.smilevideo.jp/smile?i=32719432" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">かわいそうmylist/54601853宣伝ありがとうございます...</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,991</strong>pts.｜<strong class="nico-info-length">1:32</strong>｜<strong class="nico-info-date">2018年02月11日 08：10：06</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">34,321</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">372</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">457</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">3,642</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">15</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">59</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第20位：2ch &amp;amp; Twitter ベストエロゲー2017</title>
+        <link>http://www.nicovideo.jp/watch/sm32719932</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32719932</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="2ch &amp;amp; Twitter ベストエロゲー2017" src="http://tn.smilevideo.jp/smile?i=32719932" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">2018年1月に2chエロゲネタ＆業界板、及びTwitter上で行われた2017年に発売されたエロゲの人気投票結果です。この動画は動画制作者(2ch)、よろづ集計人氏(Twitter)が集計した結果を元にしています。※別々の企画を無理矢理合算した結果ということをご留意願います。詳細：http://www18.atwiki.jp/2chbesteroge/youtube版：https://youtu.be/dCAR8WMsRSE 2chベストエロゲ関連：mylist/54706947ベストエロゲソング2017：来週中に出来るらしいですよ(user/10482436)</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,978</strong>pts.｜<strong class="nico-info-length">27:35</strong>｜<strong class="nico-info-date">2018年02月11日 22：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">18,216</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,098</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,038</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,857</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">64</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">110</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第21位：DJゆかりが冥(A)をやる話</title>
+        <link>http://www.nicovideo.jp/watch/sm32728620</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728620</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="DJゆかりが冥(A)をやる話" src="http://tn.smilevideo.jp/smile?i=32728620" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">DJゆかりが冥(A)をやるだけ。前：sm32222928次：----------mylist/54945980</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,813</strong>pts.｜<strong class="nico-info-length">11:09</strong>｜<strong class="nico-info-date">2018年02月12日 20：53：12</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">417</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">93</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">15</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">326</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">76</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">11</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第22位：親バカな蛇とお艦の居る鎮守府物語 其の41</title>
+        <link>http://www.nicovideo.jp/watch/sm32726747</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32726747</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="親バカな蛇とお艦の居る鎮守府物語 其の41" src="http://tn.smilevideo.jp/smile?i=32726747" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">こんにちわこんばんわ もう二月の半ばの 私です長くかかってしまいました、仕方がない状況なので更新速度は上げられそうにありませんので、ご了承ください(;_;)本当にもう衣笠編は佳境ですコメディがほとんどないので、楽しみにされていた方は申し訳ありません、ですがシナリオ上どうしても通らないといけない道ですので、作中の一つのスパイスとして見ていただければ幸いです他の動画様へのコメントの方に私の作品のネタとか設定とかのコメントは迷惑になるので控えてくださいよろしくお願いします。タイトル変更前の動画のマイリストmylist/45434556親バカシリーズはこちらのマイリストmylist/49317857　前回のお話sm32450041　次 次回ようやく林間学校です</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,663</strong>pts.｜<strong class="nico-info-length">29:59</strong>｜<strong class="nico-info-date">2018年02月12日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,893</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">232</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">122</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">398</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">58</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">19</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第23位：【Little Nightmares】◆残念ながら知っていた友人と一緒にやってみた◆part7</title>
+        <link>http://www.nicovideo.jp/watch/sm32725189</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32725189</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【Little Nightmares】◆残念ながら知っていた友人と一緒にやってみた◆part7" src="http://tn.smilevideo.jp/smile?i=32725189" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">【Little Nightmares】という探索系ホラーゲームを友人とプレイしていきます。本当は極度のビビリの友人に無理矢理やらすつもりだったのですが、残念なことに友人がゲーム内容を知っていたため、うp主が操作・友人が助手席でお送りします。この日の収録はこれで終了しました。1日に7partはなかなか若さを感じますね。笑前⇒sm32689949次⇒来週月曜日mylist/55345229一応西美濃の本家はyoutubeです。http://ur0.work/sTZc</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,503</strong>pts.｜<strong class="nico-info-length">22:20</strong>｜<strong class="nico-info-date">2018年02月12日 09：14：29</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">22,535</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">520</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">407</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,827</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">69</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">32</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第24位：ホモに見て欲しくない俺の好きなアニメOP集</title>
+        <link>http://www.nicovideo.jp/watch/sm32707609</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-08:/watch/sm32707609</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ホモに見て欲しくない俺の好きなアニメOP集" src="http://tn.smilevideo.jp/smile?i=32707609" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">本動画のタイトルにおける「ホモ」は「真夏の夜の淫夢」及びその関連作品内に登場するキャラクターのセリフを用いて会話をする一部のインターネットユーザーを指して使われる俗称であり、一般に同性愛者を指して使われるモノではありません。また、本動画のタイトルに同性愛者を差別する意図は一切ありません。</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,325</strong>pts.｜<strong class="nico-info-length">28:04</strong>｜<strong class="nico-info-date">2018年02月08日 22：14：31</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">55,201</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,873</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">465</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">3,601</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">297</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">30</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第25位：【実況】スプラトゥーン２でたわむれる Part73　環境崩壊</title>
+        <link>http://www.nicovideo.jp/watch/sm32722929</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32722929</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【実況】スプラトゥーン２でたわむれる Part73　環境崩壊" src="http://tn.smilevideo.jp/smile?i=32722929" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">※録画の別ｹﾞｰ実況動画　ワイルドアームズ２→sm32667849　ロックマンゼロ→sm28126242　　前←sm32702623　次→　　イカ２マイリス→mylist/59550074　　イカマイリス→mylist/49993939part1リンク→mylist/42044507告知ツイッター→https://twitter.com/huratawaようつべ→https://www.youtube.com/channel/UCZ3NnnQaSV_nya9aL92FTWg生放送→https://www.openrec.tv/user/cos_079_p</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,236</strong>pts.｜<strong class="nico-info-length">12:13</strong>｜<strong class="nico-info-date">2018年02月12日 19：12：24</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">10,368</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">362</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">106</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">3,688</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">85</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">31</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第26位：シロ地声シーンまとめ</title>
+        <link>http://www.nicovideo.jp/watch/sm32715081</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-10:/watch/sm32715081</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="シロ地声シーンまとめ" src="http://tn.smilevideo.jp/smile?i=32715081" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">シロの地声(と思われる)シーンをまとめました。セガサターン、シロ！曲単体→sm32720505見ないでください→sm32707609</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,193</strong>pts.｜<strong class="nico-info-length">8:50</strong>｜<strong class="nico-info-date">2018年02月10日 14：07：26</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">246,255</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,331</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,389</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">3,892</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">32</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">18</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第27位：【WoT】エリカの交換訓練プログラムPart39</title>
+        <link>http://www.nicovideo.jp/watch/sm32724005</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32724005</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【WoT】エリカの交換訓練プログラムPart39" src="http://tn.smilevideo.jp/smile?i=32724005" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">いつも応援してくださっている皆さん、ありがとうございます。今回の主役はマジノ女学院！そして山猫さんとのコラボ回になっています。プレイ内容？そんなものは死んだ。というわけで話の中身がけっこうグチャグチャしているのでできるだけ肩の力を抜いて見てください。前のお話【sm32557285】　次のお話【たぶん総集編】　シリーズマイリスト【mylist/46945507】苦行じみた低Tierマッチングガチャにつきあってくださった山猫さん、ベルカさん、Retalerさん、レンさんありがとうございました！コラボ元⇒「山猫さんち！」【mylist/50589605】[この動画はウォーゲーミングジャパン株式会社が権利を所有する著作物を利用しております。© Wargaming.net]</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,141</strong>pts.｜<strong class="nico-info-length">15:45</strong>｜<strong class="nico-info-date">2018年02月12日 00：31：15</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">12,135</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">826</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">289</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">669</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">23</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">10</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第28位：【第20回MMD杯本選】百万本の赤い薔薇</title>
+        <link>http://www.nicovideo.jp/watch/sm32709913</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-09:/watch/sm32709913</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】百万本の赤い薔薇" src="http://tn.smilevideo.jp/smile?i=32709913" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">Lat式ミクさんと湘「南」デートをコンセプトにお送りするPVっス。☆楽曲はPONさんよりお借りいたしました。　素晴らしき元動画->sm31034672【theme:ミナミ】【予選:sm32570780】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ </p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,091</strong>pts.｜<strong class="nico-info-length">4:53</strong>｜<strong class="nico-info-date">2018年02月09日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">802</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">39</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">53</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">11</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">0</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第29位：【オリンピックテーマソング】『SEKAI NO OWARI』ver.キャラメルペッパーズ</title>
+        <link>http://www.nicovideo.jp/watch/sm32673846</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-01:/watch/sm32673846</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【オリンピックテーマソング】『SEKAI NO OWARI』ver.キャラメルペッパーズ" src="http://tn.smilevideo.jp/smile?i=32673846" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">歌詞がとても心に響いたので歌わせていただきましたよろしくお願いしますVocal&Mix：キャラメルペッパーズ(PASSER) mylist/60288274【公式HP】http://caramelpeppers.com/ 【公式twitter】https://twitter.com/CaramelPeppers【YouTube】https://m.youtube.com/user/caramelpepperssong素敵な本家様→　https://itunes.apple.com/jp/album/1338627039?l=ja&ls=1&app=itunes%E2%80%A8作詞/ Lyricist: Fukase・Saori作曲/ Composer: Nakajin・Fukaseアイネクライネ→ sm32589726</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">4,038</strong>pts.｜<strong class="nico-info-length">4:40</strong>｜<strong class="nico-info-date">2018年02月01日 22：48：16</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,048</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">659</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">53</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">18</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">0</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第30位：【FGO】Fate/ぐだぐだサーヴァントオーダーその３８</title>
+        <link>http://www.nicovideo.jp/watch/sm32721632</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32721632</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【FGO】Fate/ぐだぐだサーヴァントオーダーその３８" src="http://tn.smilevideo.jp/smile?i=32721632" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">その３８なんだって最近ガチャしすぎで流石に自重しようと思う私です！らっきょイベが復刻ということは今年の新規コラボは月姫ですね間違いない【最近のポプテピピック】15分アニメを声優だけ変えて30分やるという狂気の試みに慣れて来てる自分が怖いsm32619285　←前回　次回→　未定マイリス mylist/56199394ツイッター　https://twitter.com/@kohakusan024メール　kohakusan024@yahoo.co.jp</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,818</strong>pts.｜<strong class="nico-info-length">10:00</strong>｜<strong class="nico-info-date">2018年02月11日 20：12：27</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">42,672</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">984</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">382</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,880</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">34</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">13</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第31位：【MMD艦これ】夕張「できましたよ提督！零式好感度測定機です！」その36-1</title>
+        <link>http://www.nicovideo.jp/watch/sm32728380</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728380</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【MMD艦これ】夕張「できましたよ提督！零式好感度測定機です！」その36-1" src="http://tn.smilevideo.jp/smile?i=32728380" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">んﾞあﾞぁﾞぁﾞぁﾞ！　おﾞ仕ﾞ事ﾞおﾞわﾞらﾞなﾞいﾞっﾞびょんﾞ！次回まで大分間が空くと思います。この動画はVIPサービスの「SS速報VIP板」の◆hxRtpcuyqE氏の作品【夕張「できましたよ提督！零式好感度測定機です！」】を勝手にMMD化した三次創作ものです。うｐ主≠SS作者様です。元作品はコンマスレで、艦娘や提督の好感度はレスのコンマでランダムに決定します。sm32552809←前　後→大分先マイリスト→mylist/54799976</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,792</strong>pts.｜<strong class="nico-info-length">6:27</strong>｜<strong class="nico-info-date">2018年02月12日 20：12：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,427</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">131</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">73</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">799</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">57</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">34</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第32位：【実況】ポケットモンスターサトシバージョン part8-2</title>
+        <link>http://www.nicovideo.jp/watch/sm32720357</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32720357</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【実況】ポケットモンスターサトシバージョン part8-2" src="http://tn.smilevideo.jp/smile?i=32720357" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">『もえよ！カビゴン！！』＜企画内容＞①サトシのポケモン全１３匹を必ずゲット。②それ以外は使用禁止。③進化過程も合わせる。④みんな大切に育てて活躍させる！-----投稿者情報-----◇全ての動画：user/13761207(マイリスト参照)◇生放送など：ch.nicovideo.jp/K-LEOMON◇ツイッター：http://twitter.com/K_LEOMON-----動画情報-----◇前回：sm32710765◇次回：2/15(木) くらいを予定◇リスト：mylist/59986984</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,752</strong>pts.｜<strong class="nico-info-length">29:15</strong>｜<strong class="nico-info-date">2018年02月12日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">5,356</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">488</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">116</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,366</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">185</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">53</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第33位：キュアアンジュ変身&amp;amp;必殺</title>
+        <link>http://www.nicovideo.jp/watch/sm32719575</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32719575</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="キュアアンジュ変身&amp;amp;必殺" src="http://tn.smilevideo.jp/smile?i=32719575" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">みんなを癒やす</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,702</strong>pts.｜<strong class="nico-info-length">1:13</strong>｜<strong class="nico-info-date">2018年02月11日 09：14：06</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">56,028</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">274</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">245</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,120</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">8</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">7</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第34位：だれかの心臓になれたなら ／ GUMI</title>
+        <link>http://www.nicovideo.jp/watch/sm32727744</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32727744</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="だれかの心臓になれたなら ／ GUMI" src="http://tn.smilevideo.jp/smile?i=32727744" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">おやすみ世界。■歌：GUMI■曲・動画：ユリイ・カノン mylist/53961728twitter⇒ @yurryCanon■絵：片井雨司 mylist/28185090twitter⇒ @catskymusic歌詞→あとでオケ→そのうち前作『トーデス・トリープ』sm32352242</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,681</strong>pts.｜<strong class="nico-info-length">3:50</strong>｜<strong class="nico-info-date">2018年02月12日 19：02：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,860</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">342</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">629</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,195</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">43</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">131</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第35位：【はじめの一歩2】世界最強のボクサーをつくる！【実況】Part17</title>
+        <link>http://www.nicovideo.jp/watch/sm32721673</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32721673</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【はじめの一歩2】世界最強のボクサーをつくる！【実況】Part17" src="http://tn.smilevideo.jp/smile?i=32721673" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">手のしたのは筋肉の鎧（物理）苦戦は続くけれど、また一段と楽しくなったきました※長時間収録で一部映像に乱れがあります□動画情報□▼全17階級制覇＆全主要団体統一制覇▼PS2版「はじめの一歩2」の実況プレイ▽高画質版: https://youtu.be/7LytthxWmVk▼企画詳細はこちらsm32418912□動画リンク□【前回】sm32699991【次回】木曜【マイリスト】mylist/60560835Twitter:http://twitter.com/NEODE1919</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,678</strong>pts.｜<strong class="nico-info-length">22:22</strong>｜<strong class="nico-info-date">2018年02月11日 18：35：22</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">83,483</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,452</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,067</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,841</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">43</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">27</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第36位：三ツ星カラーズ　第5話「どうぶつえん」</title>
+        <link>http://www.nicovideo.jp/watch/so32691904</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/so32691904</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="三ツ星カラーズ　第5話「どうぶつえん」" src="http://tn.smilevideo.jp/smile?i=32691904" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">カラーズが守るのは街だけではない。動物たちも守らなければならない！絵本を読んで動物たちがちゃんと餌をもらってるか心配になったカラーズは『動物たちが元気に生きてるか確かめ作戦』を決行する。パンダ、スマトラトラと順番に確かめていき、たまに寄り道もしつつ、最後に向かったのはゾウのもとであった。原作コミックが今すぐ読める!!動画一覧はこちら第4話 watch/1517453002</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,647</strong>pts.｜<strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2018年02月11日 23：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">44,077</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,224</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">513</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,485</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">431</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">19</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第37位：バーチャルYouTuberよくばりセット その１６</title>
+        <link>http://www.nicovideo.jp/watch/sm32722646</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32722646</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="バーチャルYouTuberよくばりセット その１６" src="http://tn.smilevideo.jp/smile?i=32722646" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">のじゃおじ生面白かったですコラボ音声はニーツ視点のみその１５⇒sm32698582 その１７⇒14日くらいに mylist/60671812キズナアイhttps://goo.gl/VjyU4Shttps://goo.gl/GgEYgyシロ https://goo.gl/2YfCtz　user/72302383ばあちゃる https://goo.gl/BAxBrSときのそら https://goo.gl/YidrME　user/69538411届木ウカ https://goo.gl/qQNWeiぜったい天使くるみちゃん https://goo.gl/DV4o2sあっくん大魔王 https://goo.gl/kv4LNTニーツ https://goo.gl/9LgxD4乾伸一郎 https://goo.gl/J5acjQさょ https://goo.gl/3ddYys　user/721233若菜レイ https://goo.gl/N8wC25引篭凜 https://goo.gl/oK1WFd蟹 https://goo.gl/sucJJW公野ゆめか https://goo.gl/HbmZwV魔王ハンパナサス https://goo.gl/fzxpvfタイプエル https://goo.gl/PvKjVS甲賀流忍者ぽんぽこ https://goo.gl/E6SBM3あさひ https://goo.gl/jfZfDG</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,621</strong>pts.｜<strong class="nico-info-length">36:16</strong>｜<strong class="nico-info-date">2018年02月11日 21：39：25</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">56,274</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">8,017</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">519</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,932</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">226</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">32</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第38位：やりおるマン</title>
+        <link>http://www.nicovideo.jp/watch/sm32715373</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-10:/watch/sm32715373</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="やりおるマン" src="http://tn.smilevideo.jp/smile?i=32715373" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">「やりおるマン」が好きすぎて、居ても立ってもおられず作りました。初投稿だから粗いのは許し亭許して 頭為になるで     追記：　本人巡回済…あっ（察し）、スマーン！　　　広告ありがとナス！  10万再生、まじぃ？　やっぱ皆シロさんが好きなんすね～   素材はコンテンツツリーに記載しております。指摘して下さった方ありがとうございました。</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,615</strong>pts.｜<strong class="nico-info-length">1:20</strong>｜<strong class="nico-info-date">2018年02月10日 15：33：08</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">132,884</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">794</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,155</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">3,199</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">27</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">26</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第39位：【第20回MMD杯本選】Bad Friends!!</title>
+        <link>http://www.nicovideo.jp/watch/sm32712590</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-09:/watch/sm32712590</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】Bad Friends!!" src="http://tn.smilevideo.jp/smile?i=32712590" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">影絵の何が楽しかったのか、新しい世代にも伝われば幸いです。過去作　mylist/4233587　【theme:繁栄】【name:6666AAP】【予選:sm32573253】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ youtube　https://www.youtube.com/watch?v=-GZosfl0WFg※http://marketingnoiroiro.com/page-2274　　　けもフレ全話の脚本、演出を実に272Pかけて徹底解剖した大長編考察。　アニメの成功がフロックではないと確信できる良記事です。</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,506</strong>pts.｜<strong class="nico-info-length">4:00</strong>｜<strong class="nico-info-date">2018年02月09日 22：53：15</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">192,576</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,130</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">14,149</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,852</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">20</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">97</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第40位：可愛いいいいい！！！ うわこわっ！！！！【CUPHEADパート２】</title>
+        <link>http://www.nicovideo.jp/watch/sm32724904</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32724904</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="可愛いいいいい！！！ うわこわっ！！！！【CUPHEADパート２】" src="http://tn.smilevideo.jp/smile?i=32724904" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ありがとー！！ヨメミの大百科がついに！！あ、あれ？…エイレーン？(´；ω；｀)ﾌﾞﾜｯ☆Youtubeチャンネルも登録してね！https://www.youtube.com/channel/UCy5lOmEQoivK5XK7QCaRKugヨメミの動画 →mylist/60759687ヨメミのツイッター♡https://twitter.com/APP_Yomemism32714294前</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,394</strong>pts.｜<strong class="nico-info-length">10:25</strong>｜<strong class="nico-info-date">2018年02月12日 19：19：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,681</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">291</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">72</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,453</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">90</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">29</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第41位：さあ、戦犯を始めよう！45話【ゆっくり実況】</title>
+        <link>http://www.nicovideo.jp/watch/sm32728474</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728474</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="さあ、戦犯を始めよう！45話【ゆっくり実況】" src="http://tn.smilevideo.jp/smile?i=32728474" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">どうも皆さん、ヤンスモです今回は小隊を組んで参戦してきたので、久々にジオン編を投稿してみました。小隊員に関しては下記か、動画内をご覧ください。因みに私は一切嘘を申しておりませぬ・・・それでは、今回もゆっくりしていってね！いつも沢山の再生・コメント・マイリストありがとうございます天見大山さん＝mylist/60044159　　ノースウインドさん＝sm32709574春改さん＝mylist/60867500　まぐろどんさん＝mylist/53753043　わたあめさん＝sm32615859前回＝sm32587346　次回＝早く出来たらいいな・・・今までの動画＝mylist/53323808生放送＝co3338585</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,378</strong>pts.｜<strong class="nico-info-length">9:58</strong>｜<strong class="nico-info-date">2018年02月12日 20：45：27</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">191</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">11</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">134</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">5</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">2</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第42位：【考察実況】今度はピザ屋を経営！『FNAF6 - Freddy Fazbear&#039;s Pizzeria Simulator』#13</title>
+        <link>http://www.nicovideo.jp/watch/sm32728394</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728394</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【考察実況】今度はピザ屋を経営！『FNAF6 - Freddy Fazbear&#039;s Pizzeria Simulator』#13" src="http://tn.smilevideo.jp/smile?i=32728394" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">☃考察って素晴らしい☻関連サイト　　　　　➸ http://store.steampowered.com/app/738060/☺リンク　　　　　　　➸ 前:sm32631728｜mylist/60503103｜次:#☻実況Part.1集　　　　➸ mylist/36693322☺黒歴史　　　　　　　➸ mylist/53789427☻コミュニティ　　　　➸ co1626516☺ツイッター　　　　　➸ http://twitter.com/couragendures☻youtubeチャンネル　➸ https://www.youtube.com/user/couragendures</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,241</strong>pts.｜<strong class="nico-info-length">16:54</strong>｜<strong class="nico-info-date">2018年02月12日 20：25：20</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,079</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">202</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">50</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">565</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">95</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">31</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第43位：ダークソウル3_トロコンRTA_14時間55分48秒_再々々走_Part01</title>
+        <link>http://www.nicovideo.jp/watch/sm32725847</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32725847</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ダークソウル3_トロコンRTA_14時間55分48秒_再々々走_Part01" src="http://tn.smilevideo.jp/smile?i=32725847" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">たび重なる失踪はダクソ○人の特権正確には傭兵の双刀+アストラの大剣+深みのダガー+重厚グレートクラブ+強化クラブチャート画質の改善はPart4から(PS4でのトロコンRTAはこれで終わるので失踪は)ないですPart02→モン○ンとかやりつつmylist/61032080</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,197</strong>pts.｜<strong class="nico-info-length">19:02</strong>｜<strong class="nico-info-date">2018年02月12日 14：52：28</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">14,607</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">386</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">241</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,568</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">45</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">37</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第44位：【GMod】歴代最高!?美しい隠れ方【prophunt】</title>
+        <link>http://www.nicovideo.jp/watch/sm32719119</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32719119</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【GMod】歴代最高!?美しい隠れ方【prophunt】" src="http://tn.smilevideo.jp/smile?i=32719119" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">美しい・・・はっ！？大先生動画我々チャンネル → ch.nicovideo.jp/warewaredaYoutube版 → 大先生（製作者）→@utu072グルッペン（投稿者）→@sovietunion1945私の動画part1集マイリスト→mylist/35824723 お借りした音楽 MusMus 様お借りした素材　びたちー素材館この動画マイリスト→mylist/60898558前→ sm32684916　次 →落ち着け </p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,171</strong>pts.｜<strong class="nico-info-length">6:51</strong>｜<strong class="nico-info-date">2018年02月11日 05：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">56,890</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">808</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">353</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">729</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">13</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">2</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第45位：ホモと見る平成2期2号の名シーン.buuraa!</title>
+        <link>http://www.nicovideo.jp/watch/sm32723810</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32723810</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ホモと見る平成2期2号の名シーン.buuraa!" src="http://tn.smilevideo.jp/smile?i=32723810" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">(ようやくクローズチャージが活躍したので)再投稿です後仮面ライダーローグの正体は(多分)氷室幻徳だクローズマグマくんでようやく拳主体のライダーになれそうなのｳﾚｼｲ…ｳﾚｼｲ…</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,163</strong>pts.｜<strong class="nico-info-length">46:21</strong>｜<strong class="nico-info-date">2018年02月11日 23：56：13</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">33,189</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,549</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">287</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,595</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">174</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">27</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第46位：「ポプテピピック」６話を見た海外の反応</title>
+        <link>http://www.nicovideo.jp/watch/sm32723569</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32723569</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="「ポプテピピック」６話を見た海外の反応" src="http://tn.smilevideo.jp/smile?i=32723569" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">よく考えたらサタデーナイトにポプテピピックを見る人達元動画様https://www.youtube.com/watch?v=kE6w4UEzP2ohttps://www.youtube.com/watch?v=xc_5fTtbx7khttps://www.youtube.com/watch?v=pbkDsFnIqQMhttps://www.youtube.com/watch?v=ji6rxZC_L3ghttps://www.youtube.com/watch?v=Q-SOGqMRP-chttps://www.youtube.com/watch?v=07t9Un_Ldoshttps://www.youtube.com/watch?v=B8TRzoYHeV4前→sm32689699　次→ポプテピピック 海外の反応シリーズ→mylist/60772479海外の反応アニメシリーズ→mylist/51047097コミュ→co3462436　Twitter→ https://twitter.com/snatch_aniki</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,146</strong>pts.｜<strong class="nico-info-length">23:57</strong>｜<strong class="nico-info-date">2018年02月11日 23：12：03</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">42,723</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">2,283</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">309</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,668</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">76</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">19</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第47位：citrus　#5「under lover」</title>
+        <link>http://www.nicovideo.jp/watch/so32691878</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/so32691878</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="citrus　#5「under lover」" src="http://tn.smilevideo.jp/smile?i=32691878" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">「わたくしと会長は、一線を越えた仲なんですのよ！」と姫子に宣言された柚子は、自分も一線を越える！ と対抗心を燃やす。学校でも、どちらが芽衣と一緒にランチをするかを争う二人だったが、芽衣に一蹴され仲良く落ち込むことに。そんな二人に、遊園地のチケット４枚があるので生徒会長も誘って皆で行こうと、はるみから提案があり…。原作コミックが今すぐ読める!!動画一覧はこちら#4 watch/1517369781</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,067</strong>pts.｜<strong class="nico-info-length">23:41</strong>｜<strong class="nico-info-date">2018年02月11日 23：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">46,476</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,935</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">554</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,568</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">345</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">13</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第48位：紲星あかりの縛ってバス釣りNo.1_Part1</title>
+        <link>http://www.nicovideo.jp/watch/sm32725833</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32725833</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="紲星あかりの縛ってバス釣りNo.1_Part1" src="http://tn.smilevideo.jp/smile?i=32725833" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">第4次スパロボRTAとかMF2RTAを投稿していた者(user/1360801)です。初のRTA以外の動画となります。よろしくお願いします。以下簡単な縛り内容紹介（詳細は動画内で）・全大会制覇・稼ぎ禁止（ゴミ拾いも禁止）・ルアー縛り・エリア縛りPart2→多分3月中この動画のマイリス：mylist/61028337RTA動画マイリス：mylist/30963290</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,059</strong>pts.｜<strong class="nico-info-length">27:29</strong>｜<strong class="nico-info-date">2018年02月12日 12：30：28</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">881</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">51</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">29</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">59</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">1</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">2</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第49位：【地球防衛軍4.1】地獄の巨大生物たちと遊んでみたpart1【複数実況】</title>
+        <link>http://www.nicovideo.jp/watch/sm31442513</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2017-06-23:/watch/sm31442513</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【地球防衛軍4.1】地獄の巨大生物たちと遊んでみたpart1【複数実況】" src="http://tn.smilevideo.jp/smile?i=31442513" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">地球防衛始めました大先生動画我々チャンネル → ch.nicovideo.jp/warewaredaYoutube版 → 大先生（製作者）→@utu072グルッペン（投稿者）→@sovietunion1945コネシマ→@konegisukuraトントン→@ton_ton1945 私の動画part1集マイリスト→mylist/35824723 お借りした音楽　H/MIX GALLERY 様お借りした素材　びたちー素材館この動画マイリスト→mylist/59342057次→sm31467549この動画は©2013 SANDLOT ©2013 D3 PUBLISHERの著作物を使用しています</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,047</strong>pts.｜<strong class="nico-info-length">10:48</strong>｜<strong class="nico-info-date">2017年06月23日 05：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">350,669</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">3,668</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,053</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">32</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">0</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">1</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第50位：デデデドン！(大王).pppland11</title>
+        <link>http://www.nicovideo.jp/watch/sm32728406</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728406</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="デデデドン！(大王).pppland11" src="http://tn.smilevideo.jp/smile?i=32728406" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">2017年12月30日のスマブラ淫夢投稿者杯の試合です。告知動画：sm32461203大会のまとめ動画：１)sm32690211　2)sm32722073対戦相手：うふぉっ！兄貴　mylist/59507139　　　　　ファルコン・ランチ兄貴　mylist/58841004sm32501932 (part10)←前　　　　次→来期のプリパラが始まったら マイリスト→mylist/58963838 スマブラは生放送もやってます(不定期) ニコ生：co2262942 OPENREC：https://www.openrec.tv/user/nekopanchi8940 </p>
+                                <p class="nico-info"><small><strong class="nico-info-number">3,044</strong>pts.｜<strong class="nico-info-length">7:37</strong>｜<strong class="nico-info-date">2018年02月12日 20：20：23</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,885</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">78</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">20</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,441</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">45</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">12</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第51位：チルノのパーフェクト百年戦争教室【第5講PrinceHal】</title>
+        <link>http://www.nicovideo.jp/watch/sm32728015</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728015</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="チルノのパーフェクト百年戦争教室【第5講PrinceHal】" src="http://tn.smilevideo.jp/smile?i=32728015" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">Q百年戦争の終結はいつか？-A1420年のトロワ条約チルノのパーフェクトイングランド史きょおしつ→mylist/57736957 sm32654158←前回　今回　次回→まだない</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,959</strong>pts.｜<strong class="nico-info-length">17:29</strong>｜<strong class="nico-info-date">2018年02月12日 19：22：25</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">723</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">33</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">15</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">273</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">17</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">6</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第52位：【月浪】『お気に召すまま』踊ってみた</title>
+        <link>http://www.nicovideo.jp/watch/sm32727751</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32727751</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【月浪】『お気に召すまま』踊ってみた" src="http://tn.smilevideo.jp/smile?i=32727751" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">こんにちは！月浪です。今回は「お気に召すまま」を踊らせていただきました＾＾＊お母さんと早起きしての撮影でした。寒かった！左はレトロで右はモダン…東京は撮影の幅が広がりますねえ…！！ご本家様：sm32338124様振り付け参考/本家様：sm32458026様-月浪-Community*：co1504307Mylist*：mylist/30222256Twitter*：@Tsukinami_2525</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,947</strong>pts.｜<strong class="nico-info-length">4:16</strong>｜<strong class="nico-info-date">2018年02月12日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">432</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">51</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">77</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">192</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">11</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">23</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第53位：バーチャルおばあちゃんノモンハンワールド卍4【ドスシナトカゲ討伐編】</title>
+        <link>http://www.nicovideo.jp/watch/sm32721198</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32721198</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="バーチャルおばあちゃんノモンハンワールド卍4【ドスシナトカゲ討伐編】" src="http://tn.smilevideo.jp/smile?i=32721198" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">これはなっているのかい？　mylist/60941167https://www.youtube.com/channel/UCTMgd9qnUD9qKBX5oTtD6ug◆twitterhttps://twitter.com/virtual_obachan</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,932</strong>pts.｜<strong class="nico-info-length">23:29</strong>｜<strong class="nico-info-date">2018年02月11日 17：04：18</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">45,934</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,364</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">298</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,547</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">41</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">13</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第54位：【命ばっかり】歌ってみた。</title>
+        <link>http://www.nicovideo.jp/watch/sm32727849</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32727849</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【命ばっかり】歌ってみた。" src="http://tn.smilevideo.jp/smile?i=32727849" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">#バレンタインデーとは※ヘッドフォン推奨です。お楽しみください。本家様 sm31680050歌：さどまる　（mylist/36803847）@s_05_05ミックス：ЯIAIRさん（mylist/45258115）(mylist/45257955)エンコード：ЯIAIRさん@AiRhythMusic13</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,802</strong>pts.｜<strong class="nico-info-length">4:12</strong>｜<strong class="nico-info-date">2018年02月12日 20：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">379</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">17</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">11</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">338</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">5</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">2</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第55位：ゆるキャン△　第5話「二つのキャンプ、二人の景色」</title>
+        <link>http://www.nicovideo.jp/watch/so32666094</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-06:/watch/so32666094</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ゆるキャン△　第5話「二つのキャンプ、二人の景色」" src="http://tn.smilevideo.jp/smile?i=32666094.4143" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">地元グルメや温泉の誘惑に勝ったり負けたりしながら、なんとかキャンプ場に辿り着いたなでしこたち。さっそくテントを立て、焚火を起こし、キレイな景色を見ながら煮込みカレーに舌つづみ。長野へ向かったリンは、高ボッチ高原でスープパスタ作りに挑戦。カレーめんとは一味違う手作りごはんの美味しさを堪能した。すっかり夜も更けて、寝る前にリンとメールをしていたなでしこは、リンに夜景を見せようとテントを抜け出して……。原作コミックが今すぐ読める!!動画一覧はこちら第4話 watch/1516774047</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,787</strong>pts.｜<strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2018年02月06日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">408,566</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">42,757</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">2,039</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,378</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">182</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第56位：CQC福島　ののじ＿二足歩行兵器ウォーカーギア編　他</title>
+        <link>http://www.nicovideo.jp/watch/sm28738570</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2016-04-30:/watch/sm28738570</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="CQC福島　ののじ＿二足歩行兵器ウォーカーギア編　他" src="http://tn.smilevideo.jp/smile?i=28738570" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">前回に引き続き音声の一部には、山村様の素材(sm28156573)を採用させてもらってるんですね！日ごろ使いで言ったら、ほんっとに使いやすいですよ！K.2.様　yajyuu様　宣伝あァりがとうございます！QVC実況シリーズmylist/55724359sm28657003←前回の商品　次回の商品→sm28842993</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,770</strong>pts.｜<strong class="nico-info-length">4:50</strong>｜<strong class="nico-info-date">2016年04月30日 00：07：09</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">38,217</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">387</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">203</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">666</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">5</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">4</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第57位：【第六回】64スマブラCPUトナメ実況【ルーザーズ側一回戦第五試合】</title>
+        <link>http://www.nicovideo.jp/watch/sm32709050</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32709050</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第六回】64スマブラCPUトナメ実況【ルーザーズ側一回戦第五試合】" src="http://tn.smilevideo.jp/smile?i=32709050" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">風船対決※どちらが勝つかアンケ結果（Twitter調べ）無垢なるヨシオ(PU) 44% VS 世界のrekuiemu(KI) 56%【大会形式】ダブルイリミネーション方式トーナメント・一度負けてもルーザーズ側を勝ち続ければ決勝に行ける次→【2月13日(火)19:00(毎日投稿)】前【sm32708959】　一回戦第一試合【sm32538745】第六回マイリスト【mylist/60846974】64スマブラCPUトナメ実況part1まとめ【mylist/60846861】その他シリーズ【mylist/12965027】Twitter【@niconicopppppp】チャンネル【ch.nicovideo.jp/p-desu】</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,743</strong>pts.｜<strong class="nico-info-length">4:34</strong>｜<strong class="nico-info-date">2018年02月12日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">7,957</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">232</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">91</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,344</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">40</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">24</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第58位：アニメキャラの衝撃的な死亡シーンランキング</title>
+        <link>http://www.nicovideo.jp/watch/sm32718322</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32718322</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="アニメキャラの衝撃的な死亡シーンランキング" src="http://tn.smilevideo.jp/smile?i=32718322" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">全国のアニメ好き小学生32億人のアンケート結果を基にランキング化しました。ネタバレ、グロ苦手な方はブラウザバックを。</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,700</strong>pts.｜<strong class="nico-info-length">24:59</strong>｜<strong class="nico-info-date">2018年02月11日 00：43：33</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">81,623</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">4,908</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">456</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,145</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">179</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">12</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第59位：ドラゴンクエストⅢ（FC）　勇者一人バグなしRTA　Part1</title>
+        <link>http://www.nicovideo.jp/watch/sm32717818</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-10:/watch/sm32717818</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ドラゴンクエストⅢ（FC）　勇者一人バグなしRTA　Part1" src="http://tn.smilevideo.jp/smile?i=32717818" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">30年前の今日、あなたは何をしていましたか？初RTA、初投稿です 次　→　31周年までには</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,646</strong>pts.｜<strong class="nico-info-length">21:22</strong>｜<strong class="nico-info-date">2018年02月10日 23：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">82,298</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,757</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,536</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,910</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">32</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">33</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第60位：【実況】ロックマンエグゼ6も動かずに制覇する part6</title>
+        <link>http://www.nicovideo.jp/watch/sm32703671</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32703671</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【実況】ロックマンエグゼ6も動かずに制覇する part6" src="http://tn.smilevideo.jp/smile?i=32703671" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">イルカ乗ってみたいなぁ。※ロックマンをマス移動させてしまったらセーブまでリセット※敵の攻撃やチップの効果、バグ等で動いてしまうのは可とする【前】 sm32692136　　　　【次】 2日後18時　　【エグゼまとめ】 mylist/58923541【part1】 sm32671989　　【投稿動画まとめ】 mylist/32090282▼投稿者情報▼【 Twitter 】　https://twitter.com/wakou2525【生放送コミュ】　co1668349【意見・連絡先】　wakou2525otayori@yahoo.co.jp</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,629</strong>pts.｜<strong class="nico-info-length">28:09</strong>｜<strong class="nico-info-date">2018年02月12日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">9,597</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">704</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">132</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,114</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">100</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">28</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第61位：新ポプテ島</title>
+        <link>http://www.nicovideo.jp/watch/sm32686326</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-04:/watch/sm32686326</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="新ポプテ島" src="http://tn.smilevideo.jp/smile?i=32686326" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">新宝島って…　| ﾌﾞｨﾝｯクソコラだよねー！ ＼ゴーッ三( ﾋﾞｬｯクソコラからは草しか生えない。 それどころか、サカナクションにとって大切な楽曲を、ぶち壊すということを。J(PωP)ミ</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,628</strong>pts.｜<strong class="nico-info-length">5:03</strong>｜<strong class="nico-info-date">2018年02月04日 17：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">348,895</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,665</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">15,885</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,475</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">14</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">58</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第62位：アンチに興奮して早口になる増長イキりおじさん</title>
+        <link>http://www.nicovideo.jp/watch/sm32714748</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-10:/watch/sm32714748</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="アンチに興奮して早口になる増長イキりおじさん" src="http://tn.smilevideo.jp/smile?i=32714748" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">すごい楽しいですUC→アンチに興奮して早口になる増長イキりおじさんUC sm32728411これすこ→のら「怒った？」ゆゆうた「怒ってないよ」sm32723565BB素材→sm29721528,sm32717801Youtubeに転載されていいゾ～これ→https://www.youtube.com/watch?v=fHEUNb4LrzEこの動画も増長イキりおじさんって名前もゆゆうたもフリー素材だからみんな遠慮なく使ってくれよな！</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,626</strong>pts.｜<strong class="nico-info-length">1:53</strong>｜<strong class="nico-info-date">2018年02月10日 12：33：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">95,912</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">5,219</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">116</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,449</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">157</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">2</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第63位：伝説のPSO2～2017年の軌跡～</title>
+        <link>http://www.nicovideo.jp/watch/sm32575665</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-01-13:/watch/sm32575665</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="伝説のPSO2～2017年の軌跡～" src="http://tn.smilevideo.jp/smile?i=32575665" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">圧力がかかったので再投稿です（本人では）ないです</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,622</strong>pts.｜<strong class="nico-info-length">8:26</strong>｜<strong class="nico-info-date">2018年01月13日 01：10：19</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">240,061</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">7,000</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,287</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">137</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">11</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">1</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第64位：【FGO】『復刻版 空の境界 the Garden of Order -Revival-』告知CM【Fate/Grand Order】</title>
+        <link>http://www.nicovideo.jp/watch/sm32718426</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32718426</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【FGO】『復刻版 空の境界 the Garden of Order -Revival-』告知CM【Fate/Grand Order】" src="http://tn.smilevideo.jp/smile?i=32718426" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">【FGO】『復刻版 空の境界 the Garden of Order -Revival-』告知CMFate関係マイリスト動画作りました過去の動画はこちらからどうぞmylist/60253726</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,612</strong>pts.｜<strong class="nico-info-length">0:15</strong>｜<strong class="nico-info-date">2018年02月11日 00：33：21</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">98,902</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">224</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">115</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,575</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">8</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">2</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第65位：【第20回MMD杯本選】艦娘の日常3（超短編）</title>
+        <link>http://www.nicovideo.jp/watch/sm32728156</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728156</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】艦娘の日常3（超短編）" src="http://tn.smilevideo.jp/smile?i=32728156" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">お久しぶりです。生存報告に少しですがよろしければ。作った動画です　→　mylist/47553556【theme:大人】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ </p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,600</strong>pts.｜<strong class="nico-info-length">1:14</strong>｜<strong class="nico-info-date">2018年02月12日 19：41：39</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,644</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">35</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">131</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">762</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">9</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">36</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第66位：FGO1.5部は低レア鯖でクリアできるのか？　part.18</title>
+        <link>http://www.nicovideo.jp/watch/sm32724298</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32724298</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="FGO1.5部は低レア鯖でクリアできるのか？　part.18" src="http://tn.smilevideo.jp/smile?i=32724298" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">今回は英霊剣豪七番勝負の勝負六番目、キャスター・リンボ戦です。イベント残り1週間ぐらいの時に編集したので動画内で言ってることは間違ってるよ、あとイベントは3日しかないよ！縛り内容①使用サーヴァントは最初の10連の星4、1000万DL記念の配布星4、元々の星が3以下②フレンド0人③石・呼符でのガチャ禁止④コンテニュー禁止次→前→sm32686329前回もたくさんの方に宣伝していただきました、ありがとうございます！編集後に宣伝していただいた方がいましたら動画でお名前を紹介できていないです、申し訳ございません。今作マイリスト：mylist/60014340前作マイリスト：mylist/58014025</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,579</strong>pts.｜<strong class="nico-info-length">12:18</strong>｜<strong class="nico-info-date">2018年02月12日 15：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">8,545</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">266</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">113</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,346</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">19</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">21</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第67位：おそ松さん　第18話「イヤミはひとり風の中」</title>
+        <link>http://www.nicovideo.jp/watch/so32691896</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/so32691896</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="おそ松さん　第18話「イヤミはひとり風の中」" src="http://tn.smilevideo.jp/smile?i=32691896" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">古き良き昭和の雰囲気漂うハラペコ町。裕福ではないが町は活気に溢れ、そこに住む人々は一生懸命に暮らしていた。そんなハラペコ町で働きもせず、だらしない生活を送るイヤミが出会ったのは「菊」という目の見えない少女で。。。動画一覧はこちら第17話 watch/1517369300</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,549</strong>pts.｜<strong class="nico-info-length">23:50</strong>｜<strong class="nico-info-date">2018年02月11日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">120,328</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">15,009</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,144</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,081</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">257</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">16</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第68位：嘘みたいに上手くいくクトゥルフ神話TRPG　＃3-2【神々の演奏バトル】</title>
+        <link>http://www.nicovideo.jp/watch/sm32726943</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32726943</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="嘘みたいに上手くいくクトゥルフ神話TRPG　＃3-2【神々の演奏バトル】" src="http://tn.smilevideo.jp/smile?i=32726943" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">実際に行ったセッションを、リプレイ動画化。嘘みたいに上手くいくクトゥルフ神話TRPG、動画シリーズ第3弾です。この辺までが導入部という感じ？たまに話題に出てるけど動画化してないやつの解説[sm32726910]※このシナリオは完全オリジナルではなく、　ＫＰが、とあるシナリオを改変して作ったものとのこと。　最終話に、元シナリオ様の情報も載せる予定です！前：sm32656568　/　次：なるべく2週間以内前回シリーズ【四つの意志】：sm31281253マイリスト:mylist/57250859ツイッター　https://twitter.com/shitouba_trpg連絡先　usouma1010@gmail.com立ち絵：転(くるり)さん　https://twitter.com/kururirura</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,502</strong>pts.｜<strong class="nico-info-length">17:14</strong>｜<strong class="nico-info-date">2018年02月12日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,929</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">140</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">61</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">594</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">36</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">17</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第69位：このまま行くと日本は滅びますっていう恐ろしい話</title>
+        <link>http://www.nicovideo.jp/watch/so32728731</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/so32728731</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="このまま行くと日本は滅びますっていう恐ろしい話" src="http://tn.smilevideo.jp/smile?i=32728731" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">フォローミー→https://twitter.com/kazuyahkd★Instagram→https://www.instagram.com/kazuya.hkd/★今後の講演情報はこちら→http://kazuyahkd.com/event★マイリス→mylist/36734521</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,496</strong>pts.｜<strong class="nico-info-length">11:26</strong>｜<strong class="nico-info-date">2018年02月12日 21：13：22</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,793</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">192</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">16</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,793</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">180</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">16</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第70位：【PUBG】ゆかりさんドン勝食べ放題チャレーンジ！ 砂漠編</title>
+        <link>http://www.nicovideo.jp/watch/sm32727161</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32727161</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【PUBG】ゆかりさんドン勝食べ放題チャレーンジ！ 砂漠編" src="http://tn.smilevideo.jp/smile?i=32727161" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ゆ母さんは家族を飢え死にさせないために大砂漠の死闘へと旅立ちます！ゆ母さんの森の実況だよ！→mylist/59534994今までの動画→mylist/56795406</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,492</strong>pts.｜<strong class="nico-info-length">13:43</strong>｜<strong class="nico-info-date">2018年02月12日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,464</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">233</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">77</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,268</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">57</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">18</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第71位：「ライダーvsセイバー 戦闘シーン」【Fate/EXTRA Last Encore】</title>
+        <link>http://www.nicovideo.jp/watch/sm32718698</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32718698</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="「ライダーvsセイバー 戦闘シーン」【Fate/EXTRA Last Encore】" src="http://tn.smilevideo.jp/smile?i=32718698" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">「ライダーvsセイバー 戦闘シーン」【Fate/EXTRA Last Encore】</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,454</strong>pts.｜<strong class="nico-info-length">1:24</strong>｜<strong class="nico-info-date">2018年02月11日 01：40：04</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">73,112</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">427</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">53</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,437</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">18</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第72位：掲示板にあった個性あふれるレス集</title>
+        <link>http://www.nicovideo.jp/watch/sm32721206</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32721206</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="掲示板にあった個性あふれるレス集" src="http://tn.smilevideo.jp/smile?i=32721206" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">動画のリンクはこちら↓動画①　動画②　動画③　動画④　動画⑤　動画⑥まだまだ寒い季節ですが、いかがお過ごしでしょうか？寒いからといって部屋にこもっていると健康にも、精神的にも良くないので、外に出かけることも必要ではないか考えたりします。ちなみに、最近は屋外でも端末で動画見ることができますが、この動画は外に出てまで視聴する動画でもありませんので、安全な場所でゆったりと視聴してください。ｵﾅｼｬｽBGM元：leSYN情報発信所 EXTRA（leSYN様）http://lesyn.com/index.html　　前作：sm32568810　今まで作った物：笑えるコピペ集等　mylist/6405545　それ以外　mylist/23975328</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,452</strong>pts.｜<strong class="nico-info-length">11:50</strong>｜<strong class="nico-info-date">2018年02月12日 00：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">27,302</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,219</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">405</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,134</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">65</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">17</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第73位：妄想疾患■ガール 歌ってみたのはメガテラ・ゼロ</title>
+        <link>http://www.nicovideo.jp/watch/sm32721614</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32721614</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="妄想疾患■ガール 歌ってみたのはメガテラ・ゼロ" src="http://tn.smilevideo.jp/smile?i=32721614" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">妄想疾患■ガールこの曲の作詞作曲のもじゃさん【大柴さん】とここ最近何回か一緒にライブをさせていただいてその時弾き語りでこの曲を聴いてかっこよすぎて惚れすぎて思わずすぐに聞いて歌ってみました！！よろしくおねがいします！本当に素敵な本家様！⇒sm23721916大柴広己【もじゃ】さんの妄想疾患■ガール歌ってみた⇒sm23723579ミックス⇒メガテラ&ろまん西野さんtwitter@cocatnin前回⇒sm32642658ボーカル＆エンコード⇒メガテラ・ゼロ他力本願シリーズmylist/46830545ギターシリーズmylist/48366449自力本山シリーズmylist/52593117注意事項！：アレンジが多いです</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,447</strong>pts.｜<strong class="nico-info-length">2:57</strong>｜<strong class="nico-info-date">2018年02月11日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">28,418</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">674</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,799</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,484</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">4</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">64</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第74位：いつもの聖子ちゃんのお店でユーチューバーさんとコラボしてみた</title>
+        <link>http://www.nicovideo.jp/watch/sm32608378</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-01-19:/watch/sm32608378</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="いつもの聖子ちゃんのお店でユーチューバーさんとコラボしてみた" src="http://tn.smilevideo.jp/smile?i=32608378" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">過去動画で何回かでたゴールデン街の聖子ちゃんが聴けるお店です。そこでユーチューバーの江分輪太さんと遭遇しました。そんでコラボしてみました。お店の名前も公開します。ゴールデン街５番街の夏の扉さんです。ぜひ行ってみてね（ひやかしはやめて〜かもｗ）江分輪太さんの動画もぜひ見てください。　　　　マイリスト：ハイボールとか　mylist/54553181　　　　前：実家のお正月から帰還してみた　sm32584425　　　次：寒いので！ふとんで鍋とハイボールやってみた　　　sm32608378　　　　江分輪太さんのコラボ動画（ユーチューブ）：【登録16000人突破記念ご挨拶】ハイボールの人と謎コラボ！！　　https://www.youtube.com/watch?v=Z8XdHaGU3cw　　競馬が好きな人はぜひチャンネル登録かも！</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,431</strong>pts.｜<strong class="nico-info-length">3:45</strong>｜<strong class="nico-info-date">2018年01月19日 20：47：14</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">39,691</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">446</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">72</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">31</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">0</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第75位：【TASさんの休日】TASさんが艦長になるようです&amp;quot;鋼鉄の咆哮&amp;quot;【part1】</title>
+        <link>http://www.nicovideo.jp/watch/sm32719163</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32719163</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【TASさんの休日】TASさんが艦長になるようです&amp;quot;鋼鉄の咆哮&amp;quot;【part1】" src="http://tn.smilevideo.jp/smile?i=32719163" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">TASさんが史上最強の提督を目指します。　チュートリアルとストーリー開始 PS2版"ウォーシップガンナー2 鋼鉄の咆哮"です。 エミュを一部改造したため機能テストを兼ねて(同期ズレ調整と先入力機能)次⇒FF12と同時進行　　　　　鋼鉄の咆哮マイリスト⇒mylist/61013132投稿動画part1リンク⇒mylist/33647728※途中で1回グラフィックプラグインを再設定しています※ストーリー部分、解説をしたい部分は飛ばしておりませんチュートリアル終了 #5:30</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,390</strong>pts.｜<strong class="nico-info-length">14:12</strong>｜<strong class="nico-info-date">2018年02月11日 10：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">43,680</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,003</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">910</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,785</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">36</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">36</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第76位：【実況】超高速青鬼　Part1</title>
+        <link>http://www.nicovideo.jp/watch/sm17797034</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2012-05-12:/watch/sm17797034</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【実況】超高速青鬼　Part1" src="http://tn.smilevideo.jp/smile?i=17797034" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">はじめまして、リアクション実況者です。　　コメントできない方は→sm17797034昔、他実況者様がやっていたので私も挑戦させていただきました。※他の方に迷惑をかけないようにご視聴よろしくお願いします。同時進行→sm17753295Part1→sm17797034　　次→sm17859914 　　マイリスト→mylist/31968808コミュ→co217323実況プレイpart1リンク・新作→mylist/15923690　　個人実況まとめ→mylist/25740145【ツイッター】　キヨ→http://twitter.com/kiyo_saiore　（動画・更新情報など）</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,353</strong>pts.｜<strong class="nico-info-length">14:48</strong>｜<strong class="nico-info-date">2012年05月12日 06：01：10</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,786,542</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">351,123</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">28,938</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">43</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">1</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第77位：[ゆっくり実況プレイ] もんわ その20</title>
+        <link>http://www.nicovideo.jp/watch/sm32725123</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32725123</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="[ゆっくり実況プレイ] もんわ その20" src="http://tn.smilevideo.jp/smile?i=32725123" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">狩る。料理長、本気出すの巻※まな板キーホルダー通販が開始されたそうです　欲しい人は買うがよいhttps://skyzombie.booth.pm/前：sm32719563　次：あした╰(　´◔　ω　◔ `)╯MHW：mylist/60892193その1まとめ：mylist/39194985コミュ：　co2243232質問、要望などありましたらこちらへhttp://ch.nicovideo.jp/willow8713/blomaga/ar670505</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,343</strong>pts.｜<strong class="nico-info-length">16:47</strong>｜<strong class="nico-info-date">2018年02月12日 11：26：34</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">20,697</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">694</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">302</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,720</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">39</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">21</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第78位：ムジュンに異議を唱えるICG姉貴.mvc</title>
+        <link>http://www.nicovideo.jp/watch/sm32723960</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32723960</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ムジュンに異議を唱えるICG姉貴.mvc" src="http://tn.smilevideo.jp/smile?i=32723960" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">下北沢暴力団員殺害事件を忘れるな※机無し＆全身バージョンもおまけに入ってる入ってる聖刻印兄貴、ウンチートンチーブラザーズ兄貴、o-den兄貴、モーノ兄貴、燃料切れ兄貴、（・ｘ・）兄貴、アンデス兄貴、おいおい兄貴、真黒氏兄貴、ホモサマン兄貴、名無し兄貴、REI兄貴、マイヤー兄貴、あいうえお700兄貴、TEL兄貴、SHIGERU兄貴、よらべしらべ兄貴、風間兄貴、Nazzma兄貴、ふゆうじ兄貴、我妻兄貴、856兄貴、みんとん兄貴、知床兄貴、神乃木荘龍兄貴、うぱし兄貴、Silkie兄貴、ゲスト兄貴、ブルーナ兄貴、k57兄貴、マイリス置き場兄貴、ニコって兄貴宣伝まいどありーmylist/57301191</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,309</strong>pts.｜<strong class="nico-info-length">4:53</strong>｜<strong class="nico-info-date">2018年02月12日 00：25：12</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">18,369</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">441</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">216</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,926</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">24</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">16</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第79位：【第20回MMD杯本選】ぼくもフレンド</title>
+        <link>http://www.nicovideo.jp/watch/sm32722628</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32722628</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】ぼくもフレンド" src="http://tn.smilevideo.jp/smile?i=32722628" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">【theme:中央】【name:shushuMMD】【予選:sm32578146】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ 横スクロールの紙芝居っぽい動画です。けもフレワールドを5分に詰め込みました。マイリスまとめ mylist/40185477YouTubeチャンネル http://www.youtube.com/c/shushuMMDウェブサイト http://mmd-swamp.com/支援についての問い合わせがあったので登録させてもらってます。https://enty.jp/shushuMMDどうにか遅刻せずに済んだけど、だいぶ命削った気がします･･･。作業量多くてあまりにもしんどかった･･･。同じような演出構成の動画はもう作りたくない･･･(過労次は彼岸島ちほー(たぶん</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,255</strong>pts.｜<strong class="nico-info-length">4:58</strong>｜<strong class="nico-info-date">2018年02月11日 21：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">15,300</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">425</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">910</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,120</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">11</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">59</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第80位：オルガピピック4</title>
+        <link>http://www.nicovideo.jp/watch/sm32683904</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-03:/watch/sm32683904</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="オルガピピック4" src="http://tn.smilevideo.jp/smile?i=32683904" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">繰り返し　思い描くスピログラフsm32648862 ←3 | mylist/60905698 | 5→ sm32724013</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,211</strong>pts.｜<strong class="nico-info-length">3:25</strong>｜<strong class="nico-info-date">2018年02月03日 23：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">578,195</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,985</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">4,898</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,111</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">41</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">4</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第81位：衛宮さんちの今日のごはん　第二話「鮭ときのこのバターホイル焼き」</title>
+        <link>http://www.nicovideo.jp/watch/so32677024</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-08:/watch/so32677024</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="衛宮さんちの今日のごはん　第二話「鮭ときのこのバターホイル焼き」" src="http://tn.smilevideo.jp/smile?i=32677024" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">夕飯の買い出しに来た士郎。献立を考えながら商店街を歩いていると、魚屋で店番をしているランサーに出会う。士郎は鮭を使った料理を作ることを決めたが、何故かランサーが衛宮家に夕飯を食べにくることになり… 原作コミックが今すぐ読める!!動画一覧はこちら第一話 watch/1517215274</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,175</strong>pts.｜<strong class="nico-info-length">12:29</strong>｜<strong class="nico-info-date">2018年02月08日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">499,168</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">17,960</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,667</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,028</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">75</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">5</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第82位：【Kenshi】きりたんが荒野を征く Part 10【東北きりたん実況】</title>
+        <link>http://www.nicovideo.jp/watch/sm32722630</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32722630</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【Kenshi】きりたんが荒野を征く Part 10【東北きりたん実況】" src="http://tn.smilevideo.jp/smile?i=32722630" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">面白いのにいまいちマイナーだったゲーム「Kenshi」の魅力を伝えたい。そんな動画のパート10です。1080pで投稿しています。conjohさまのMOD紹介ページ：im7840110前回：sm32660840＜　＞次回：本作マイリスト：mylist/60418357Steamストアページhttp://store.steampowered.com/app/233860/Kenshi/</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,123</strong>pts.｜<strong class="nico-info-length">15:47</strong>｜<strong class="nico-info-date">2018年02月11日 21：09：25</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">28,909</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,331</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">604</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,127</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">22</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">27</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第83位：【Kenshi】茜と葵の人生どん底からの逆襲par1【VOICEROID実況】</title>
+        <link>http://www.nicovideo.jp/watch/sm32728603</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728603</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【Kenshi】茜と葵の人生どん底からの逆襲par1【VOICEROID実況】" src="http://tn.smilevideo.jp/smile?i=32728603" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">こんにちわ、チンアナゴと申す者です。今回、kenshiを始めたのはいいのですが、ほんと、よく分かっておりませぬ故、へたっぴプレイですがそれでもよろしければ、ゆっくりしていってください</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,109</strong>pts.｜<strong class="nico-info-length">5:25</strong>｜<strong class="nico-info-date">2018年02月12日 20：43：18</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">242</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">24</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">6</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">173</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">18</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">4</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第84位：【MMD】動物系バーチャルyoutuber 3人で ”脱法ロック”【1080P】</title>
+        <link>http://www.nicovideo.jp/watch/sm32687529</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-04:/watch/sm32687529</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【MMD】動物系バーチャルyoutuber 3人で ”脱法ロック”【1080P】" src="http://tn.smilevideo.jp/smile?i=32687529" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ばあちゃるが流行っていると聞いて◆モデル「電脳少女シロ」(c)Siro YouTuber「男性バーチャルYouTuber ばあちゃる」(c)Virtual YouTuber「みここ(バーチャルのじゃロリ狐娘Youtuberおじさん)」◆モーション「まおま様」◆曲 「脱法ロック」※その他お借りしたものは動画内もしくはコンテンツツリーにあります。馬刺し喰いたい様　Stechkin様 　チケットの捨て所さん！？　広告ありがとうございます！！！</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,100</strong>pts.｜<strong class="nico-info-length">3:07</strong>｜<strong class="nico-info-date">2018年02月04日 18：49：26</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">17,099</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">143</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">253</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,639</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">12</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">20</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第85位：【Kenshi】ずん子のずんだ布教の珍道中　ずんだ餅2個目</title>
+        <link>http://www.nicovideo.jp/watch/sm32728425</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728425</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【Kenshi】ずん子のずんだ布教の珍道中　ずんだ餅2個目" src="http://tn.smilevideo.jp/smile?i=32728425" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">投稿ペース遅すぎてごめんなさい忘れてるよね（´・ω・｀）周りが早過ぎて置いてけぼり食らってる気がするｗｗ続くかはずんだのみが知るきりたんママンとは→sm32327437義賊茜とは→sm32542404前→sm32584332次→マイリスと→mylist/60803490</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,089</strong>pts.｜<strong class="nico-info-length">10:21</strong>｜<strong class="nico-info-date">2018年02月12日 20：22：22</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">483</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">116</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">19</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">263</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">71</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">10</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第86位：小窓から顔を出す野獣先輩</title>
+        <link>http://www.nicovideo.jp/watch/sm32713227</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-10:/watch/sm32713227</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="小窓から顔を出す野獣先輩" src="http://tn.smilevideo.jp/smile?i=32713227" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">こわいyoutube→https://www.youtube.com/watch?v=j7M8p2ily-Y</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,086</strong>pts.｜<strong class="nico-info-length">1:04</strong>｜<strong class="nico-info-date">2018年02月10日 00：35：15</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">45,047</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">287</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">221</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,889</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">3</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">13</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第87位：【MHW】おほー！今日も可愛いね♩【ランス】</title>
+        <link>http://www.nicovideo.jp/watch/sm32706796</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-09:/watch/sm32706796</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【MHW】おほー！今日も可愛いね♩【ランス】" src="http://tn.smilevideo.jp/smile?i=32706796" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">目覚まし時計になってあげました(*ฅ•̀ω•́ฅ*)ｼﾞﾘﾘﾘNEXT→お待ちくださいモンスターハンターワールド→mylist/61007501その他UP動画一覧→mylist/60628711■チャンネルhttps://www.youtube.com/channel/UCLhUvJ_wO9hOvv_yYENu4fQ■Twitterhttps://twitter.com/SIROyoutuber本日実況したタイトルはこちらです！http://www.capcom.co.jp/monsterhunter/world/</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,071</strong>pts.｜<strong class="nico-info-length">14:33</strong>｜<strong class="nico-info-date">2018年02月09日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">266,583</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">6,385</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">1,894</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,847</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">62</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">11</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第88位：グランクレスト戦記　第6話「進軍」</title>
+        <link>http://www.nicovideo.jp/watch/so32706226</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/so32706226</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="グランクレスト戦記　第6話「進軍」" src="http://tn.smilevideo.jp/smile?i=32706226" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ヴィラールの魔法師長であるマルグレットが間もなく25歳の誕生日を迎える。ヴィラールに仕える魔法師は女性だけで、25歳を迎えると契約は解除される決まりとなっている。盛大に開かれた誕生祝いの宴。集まった者たちは口々に感謝の意や別れを惜しむ気持ちをマルグレットに伝える。そんな中で、ヴィラールはマルグレットの手を取り、ダンスに誘う。二人の想いが通うかのような激しいダンスに、シルーカはもどかしい思いを抱く。原作ノベルが今すぐ読める!!動画一覧はこちら第5話 watch/1517455042</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,066</strong>pts.｜<strong class="nico-info-length">23:40</strong>｜<strong class="nico-info-date">2018年02月12日 12：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">14,780</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,367</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">245</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,639</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">138</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">16</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第89位：「奏者と魔力供給するセイバー」【Fate/EXTRA Last Encore】</title>
+        <link>http://www.nicovideo.jp/watch/sm32718680</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32718680</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="「奏者と魔力供給するセイバー」【Fate/EXTRA Last Encore】" src="http://tn.smilevideo.jp/smile?i=32718680" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">「奏者と魔力供給するセイバー」【Fate/EXTRA Last Encore】</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,047</strong>pts.｜<strong class="nico-info-length">1:40</strong>｜<strong class="nico-info-date">2018年02月11日 01：36：31</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">29,151</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">88</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">37</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">2,037</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">11</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">0</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第90位：第11回みんなで決めるゲーム音楽ベスト100(+900) Part6</title>
+        <link>http://www.nicovideo.jp/watch/sm32724059</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32724059</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="第11回みんなで決めるゲーム音楽ベスト100(+900) Part6" src="http://tn.smilevideo.jp/smile?i=32724059" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">闘会議・ゲーム音楽ステージの二次会的なものとなればこれ幸い■諸般のお知らせ・ネタバレの宝庫ですので心してください・58分55秒～：ゲーム中の場面に応じてパートが切り替わっていく曲です（全３部構成）  　→第1パート：#58:56～　第2パート：#61:02～　第3パート：#63:12～■SSの送付先など：ar1374199part5：sm32674346part7：7～10日ほどをマイリスト：mylist/60442049</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,040</strong>pts.｜<strong class="nico-info-length">76:03</strong>｜<strong class="nico-info-date">2018年02月12日 00：54：13</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">15,377</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">900</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">319</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,332</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">67</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">23</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第91位：TRPGのあれこれで使えそうなフリーBGM様紹介</title>
+        <link>http://www.nicovideo.jp/watch/sm32728294</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728294</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="TRPGのあれこれで使えそうなフリーBGM様紹介" src="http://tn.smilevideo.jp/smile?i=32728294" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ほんっとにほぼ自己満足でつくった停電動画なので、カタログみたいな感覚で見ていただけたら幸いです。紹介動画なのであんまりふざけてないですあとだいすきなのあふれてて気持ち悪いな（完成した動画を見返して）＊＊タグってこれ何つければいいんでしょうか…　＊＊お世話になったサイト様リンク●DOVA-SYNDROME様（https://dova-s.jp/）●HURT RECORD様（http://www.hurtrecord.com/）●Jamendo Music様（https://www.jamendo.com/start）●CANDY MUSIC!様（https://www.jamendo.com/start）●DUST SOUNDS様（http://dust-sounds.com/）●舞台音楽フリー素材のALL GREEN STUDIO様（https://agstudio.jp/）●おとわび様（https://otowabi.com/）●音楽の卵様（http://ontama-m.com/index.html）</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,008</strong>pts.｜<strong class="nico-info-length">26:38</strong>｜<strong class="nico-info-date">2018年02月12日 20：05：15</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,359</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">106</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">139</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">486</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">24</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">64</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第92位：【第20回MMD杯本選】斗え！夜戦仮面V3　Episode:２【MMD艦これ】</title>
+        <link>http://www.nicovideo.jp/watch/sm32727296</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32727296</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】斗え！夜戦仮面V3　Episode:２【MMD艦これ】" src="http://tn.smilevideo.jp/smile?i=32727296" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">【theme:中央】【予選:sm32573128】第19回MMD杯「改二3号！その名はV3」＜sm31730029＞の続編です１月下旬に利き腕の右手手首を骨折してしまいました。２月６日に手術、現在もギプスで固定された状態です。退院後に左手一本で作ったため、低クオリティですがご容赦ください。なお、「キクトラセブン」は無理でした。すみません･･･orz。MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ 夜戦仮面→mylist/57861144過去作品→mylist/32393802</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">2,007</strong>pts.｜<strong class="nico-info-length">5:30</strong>｜<strong class="nico-info-date">2018年02月12日 17：40：08</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">765</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">33</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">45</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">190</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">3</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">9</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第93位：どうした朝日！？中国に対する熱烈批判を展開</title>
+        <link>http://www.nicovideo.jp/watch/so32722749</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/so32722749</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="どうした朝日！？中国に対する熱烈批判を展開" src="http://tn.smilevideo.jp/smile?i=32722749" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">フォローミー→https://twitter.com/kazuyahkd★Instagram→https://www.instagram.com/kazuya.hkd/★今後の講演情報はこちら→http://kazuyahkd.com/event★マイリス→mylist/36734521</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">1,990</strong>pts.｜<strong class="nico-info-length">11:41</strong>｜<strong class="nico-info-date">2018年02月11日 21：18：50</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">37,563</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,907</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">89</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,885</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">62</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">3</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第94位：【第20回MMD杯本選】Memories【ACMMD】</title>
+        <link>http://www.nicovideo.jp/watch/sm32728660</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728660</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】Memories【ACMMD】" src="http://tn.smilevideo.jp/smile?i=32728660" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">【theme:アニバ】騙して悪いが未完成なんでな……遅刻動画を待っていて貰おうモーション協力：瓜うりPポーズ協力：フレディ</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">1,984</strong>pts.｜<strong class="nico-info-length">0:31</strong>｜<strong class="nico-info-date">2018年02月12日 20：51：39</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">1,067</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">32</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">63</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">713</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">12</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">36</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第95位：無人島で一人助けを待つげんげん</title>
+        <link>http://www.nicovideo.jp/watch/sm32718419</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-11:/watch/sm32718419</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="無人島で一人助けを待つげんげん" src="http://tn.smilevideo.jp/smile?i=32718419" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">mylist/60781611前sm32666524https://youtu.be/AyO4eOq6YNoこのビデオは、浜辺に流れ着いたボトルの中に封入されていた録画機器に記録されていました。この青年を助けるためにも、一刻も早く彼の所在を見つけ出してください。ちなみに、映像の録画時刻は10年ほど前でした。</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">1,976</strong>pts.｜<strong class="nico-info-length">1:58</strong>｜<strong class="nico-info-date">2018年02月11日 00：43：46</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">135,103</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,312</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">362</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,898</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">19</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">4</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第96位：マキマキのリズムでダンジョンなネクロダンサー Part12【ゆかマキ】</title>
+        <link>http://www.nicovideo.jp/watch/sm32728122</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728122</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="マキマキのリズムでダンジョンなネクロダンサー Part12【ゆかマキ】" src="http://tn.smilevideo.jp/smile?i=32728122" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">ネクロダンサーNintendoSwitchVer、解禁！さあさあ、もちろんニンテンドースイッチでやっていきますよ！ちょっとだけハイテンションなマキマキががんばっていきます！え、前編後編って分けてない件？前Partでの不穏なコメント？動画時間がなんか短い？…はい、つまりそういうことです。Part1:sm31562443Part11前編:sm32500417　Part11後編:sm32629132Part12:ここPart13:しばし侍ていマイリス:mylist/59457436茶番飛ばし→#0:49オールゾーン→#6:10歌うボイスロイド→#9:51買ってあげるとup主が超喜びます→http://amzn.asia/bZDuQVq</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">1,950</strong>pts.｜<strong class="nico-info-length">14:22</strong>｜<strong class="nico-info-date">2018年02月12日 19：46：47</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">150</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">7</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">6</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">75</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">1</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">1</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第97位：【#コンパス 】Let Me Take You【アダム＝ユーリエフ】</title>
+        <link>http://www.nicovideo.jp/watch/so32698016</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-10:/watch/so32698016</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【#コンパス 】Let Me Take You【アダム＝ユーリエフ】" src="http://tn.smilevideo.jp/smile?i=32698016" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">【NHN Playart x niconico】スマホゲーム「#コンパス」ヒーロー「アダム＝ユーリエフ」テーマソングです！http://app.nhn-playart.com/compass/Music＆Lyrics  banvoxillustration      狂zipMovie             まきのせなOfficial Music Videoはこちらhttps://www.youtube.com/watch?v=7SqlLY4N3vY</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">1,936</strong>pts.｜<strong class="nico-info-length">3:04</strong>｜<strong class="nico-info-date">2018年02月10日 18：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">72,075</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">1,617</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">3,812</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,294</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">13</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">38</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第98位：【第20回MMD杯本選】第94回箱根駅伝ハイライト【１区】</title>
+        <link>http://www.nicovideo.jp/watch/sm32728661</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32728661</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【第20回MMD杯本選】第94回箱根駅伝ハイライト【１区】" src="http://tn.smilevideo.jp/smile?i=32728661" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">というわけで今回は単発ネタです。過去作との繋がりはほぼないんで、初めて見る方でも大丈夫なはずです！今までの→mylist/41408911【theme:中央】【予選:sm32574803】MMD杯公式サイト= http://mmdcup.org/ 本選公式1=mylist/60232979 本選公式2=mylist/60232980 Angel-CUP= http://angel-cup.ch2.cc/mmdcup20/ </p>
+                                <p class="nico-info"><small><strong class="nico-info-number">1,931</strong>pts.｜<strong class="nico-info-length">3:58</strong>｜<strong class="nico-info-date">2018年02月12日 20：52：43</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">287</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">45</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">19</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">234</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">37</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">15</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第99位：【MUGEN】狂下位級！叩け筐体ランセレトーナメント2 Part16</title>
+        <link>http://www.nicovideo.jp/watch/sm32723183</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-02-12:/watch/sm32723183</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="【MUGEN】狂下位級！叩け筐体ランセレトーナメント2 Part16" src="http://tn.smilevideo.jp/smile?i=32723183" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">荒ぶるラウンドコールOP→sm32566242Part15→sm32706368Part17→やっぱりサテラはお願い聞いてしてくるのかなあマイリスト mylist/59066026</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">1,930</strong>pts.｜<strong class="nico-info-length">19:50</strong>｜<strong class="nico-info-date">2018年02月12日 19：00：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">3,604</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">300</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">70</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,311</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">68</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">19</strong><br/></small></p>
+                  ]]></description>
+      </item>
+                <item>
+        <title>第100位：ポプテピピック　#1「出会い」</title>
+        <link>http://www.nicovideo.jp/watch/so32488250</link>
+        <guid isPermaLink="false">tag:nicovideo.jp,2018-01-07:/watch/so32488250</guid>
+        <pubDate>Mon, 12 Feb 2018 22:08:44 +0900</pubDate>
+        <description><![CDATA[
+                      <p class="nico-thumbnail"><img alt="ポプテピピック　#1「出会い」" src="http://tn.smilevideo.jp/smile?i=32488250" width="94" height="70" border="0"/></p>
+                                <p class="nico-description">原作コミックが今すぐ読める!! 動画一覧はこちら#2 watch/1515554001</p>
+                                <p class="nico-info"><small><strong class="nico-info-number">1,897</strong>pts.｜<strong class="nico-info-length">23:42</strong>｜<strong class="nico-info-date">2018年01月07日 01：30：00</strong> 投稿<br/><strong>合計</strong>&nbsp;&#x20;再生：<strong class="nico-info-total-view">4,348,253</strong>&nbsp;&#x20;コメント：<strong class="nico-info-total-res">236,187</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-total-mylist">32,460</strong><br/><strong>毎時</strong>&nbsp;&#x20;再生：<strong class="nico-info-hourly-view">1,555</strong>&nbsp;&#x20;コメント：<strong class="nico-info-hourly-res">60</strong>&nbsp;&#x20;マイリスト：<strong class="nico-info-hourly-mylist">7</strong><br/></small></p>
+                  ]]></description>
+      </item>
+            
+  </channel>
+</rss>
+

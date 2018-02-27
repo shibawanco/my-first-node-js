@@ -1,0 +1,213 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/3.1
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+:q!
+:q
+:!q
+:w
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/3.1
+?/2.6
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	     a) バラは赤い、
+"2	LINE	0
+	     d) 貴方も学ぶことができる?
+""-	CHAR	0
+	---> この
+
+# ファイルマーク:
+'0  23  1  /tmp/crontab.41B2iT/crontab
+'1  24  0  /tmp/crontab.8EqqIW/crontab
+'2  23  0  /tmp/crontab.rXIdx5/crontab
+'3  387  5  /tmp/tutorMl4NEV
+'4  20  0  ~/.profile
+'5  295  0  /tmp/tutorBd2gV2
+'6  295  0  /tmp/tutorZMwNgE
+'7  58  20  /tmp/tutorTDfS2V
+'8  1  0  ~/workspace/vim-study/test.txt
+'9  16  0  ~/.profile
+
+# ジャンプリスト (新しいものが先):
+-'  23  1  /tmp/crontab.41B2iT/crontab
+-'  1  0  /tmp/crontab.41B2iT/crontab
+-'  24  0  /tmp/crontab.8EqqIW/crontab
+-'  1  0  /tmp/crontab.8EqqIW/crontab
+-'  23  0  /tmp/crontab.rXIdx5/crontab
+-'  1  0  /tmp/crontab.rXIdx5/crontab
+-'  387  5  /tmp/tutorMl4NEV
+-'  389  5  /tmp/tutorMl4NEV
+-'  39  0  /tmp/tutorMl4NEV
+-'  1  0  /tmp/tutorMl4NEV
+-'  20  0  ~/.profile
+-'  1  0  ~/.profile
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  16  0  ~/.profile
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  387  5  /tmp/tutorMl4NEV
+-'  389  5  /tmp/tutorMl4NEV
+-'  39  0  /tmp/tutorMl4NEV
+-'  1  0  /tmp/tutorMl4NEV
+-'  20  0  ~/.profile
+-'  1  0  ~/.profile
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  16  0  ~/.profile
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  387  5  /tmp/tutorMl4NEV
+-'  389  5  /tmp/tutorMl4NEV
+-'  39  0  /tmp/tutorMl4NEV
+-'  1  0  /tmp/tutorMl4NEV
+-'  20  0  ~/.profile
+-'  1  0  ~/.profile
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  16  0  ~/.profile
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+-'  295  0  /tmp/tutorZMwNgE
+-'  1  0  /tmp/tutorZMwNgE
+-'  58  20  /tmp/tutorTDfS2V
+-'  1  0  /tmp/tutorTDfS2V
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  295  0  /tmp/tutorBd2gV2
+-'  1  0  /tmp/tutorBd2gV2
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /tmp/crontab.41B2iT/crontab
+	"	23	1
+	^	23	2
+	.	23	1
+	+	2	0
+	+	2	0
+	+	23	1
+
+> /tmp/crontab.8EqqIW/crontab
+	"	24	0
+	^	24	0
+	.	24	0
+	+	1	53
+	+	23	2
+	+	24	0
+
+> /tmp/crontab.rXIdx5/crontab
+	"	23	0
+	^	23	52
+	.	23	51
+	+	23	51
+
+> /tmp/tutorMl4NEV
+	"	387	5
+	.	387	0
+	+	386	0
+	+	389	0
+	+	390	0
+	+	389	0
+	+	387	0
+
+> ~/.profile
+	"	20	0
+
+> /tmp/tutorBd2gV2
+	"	295	0
+	.	295	0
+	+	295	0
+
+> /tmp/tutorZMwNgE
+	"	295	0
+	^	133	59
+	.	295	0
+	+	83	59
+	+	108	62
+	+	131	56
+	+	133	56
+	+	203	59
+	+	223	60
+	+	295	0
+
+> /tmp/tutorTDfS2V
+	"	58	20
+
+> ~/workspace/vim-study/test.txt
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	1	2
+	+	1	0
